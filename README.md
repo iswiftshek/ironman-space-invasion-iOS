@@ -1,6 +1,6 @@
 # Space Invasion
 
-![Finished App](https://pasteboard.co/HYDJSqi.png)
+![Finished App](https://ibb.co/XCNf7h7)
 
 ## Introduction
 > Space Invasion in an iOS Space game written in Swift and developed using SpriteKit.
